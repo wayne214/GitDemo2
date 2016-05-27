@@ -17,7 +17,7 @@ build/
 bin/
 gen/
 out/
-lacal.properties
+local.properties
 
 #Temp files
 *.bak
